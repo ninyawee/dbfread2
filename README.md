@@ -1,5 +1,12 @@
 # 📚 dbfread2
 
+> **⚠️ ARCHIVED: This project has been superseded by [roonpoo](https://github.com/ninyawee/roonpoo)**
+>
+> roonpoo extends dbfread2 with Thai legacy accounting software support.
+> Please use roonpoo for new projects.
+
+---
+
 > 🚀 A modern Python library for reading DBF files with elegance and type safety
 
 [![PyPI version](https://badge.fury.io/py/dbfread2.svg)](https://badge.fury.io/py/dbfread2)
