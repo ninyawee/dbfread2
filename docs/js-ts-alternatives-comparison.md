@@ -20,7 +20,7 @@ This document compares TypeScript/JavaScript alternatives to **dbfread2** (Pytho
 | **TypeScript** | ✅ Type hints | ✅ Native TS | ✅ Native TS | ❌ No |
 | **Weekly Downloads** | N/A (PyPI) | 4,289 | 1,789 | 280 |
 | **Maintenance** | ✅ Active | ⚠️ Last update 1yr ago | ⚠️ 4 years ago | ❌ Unmaintained |
-| **GitHub Stars** | N/A | ~200+ | 5 | ~40 |
+| **GitHub Stars** | N/A | not verified | 5 | not verified |
 | **DBF Versions** | dBase III/IV/VFP/FoxBase+ | dBase III/IV/VFP9/FP2 | dBase III/IV/FP/VFP | Limited |
 
 ---
@@ -381,6 +381,9 @@ For JavaScript/TypeScript projects, **dbffile** is the clear winner with:
 
 ---
 
-**Last Updated:** 2025-11-16
+**Last Updated:** 2026-07-30
+**Note:** Download counts, version numbers, and "last published" dates were gathered
+from web search snapshots at the time of writing and should be re-checked against
+npm before relying on them.
 **Researched for:** dbfread2 project
 **Maintainer:** Nutchanon Ninyawee
